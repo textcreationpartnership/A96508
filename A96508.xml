@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supream authority the Parliament of the Common-VVealth of England. A remonstrance humbly presented by Thomas Wilkes, on behalfe of all the old distressed officers, souldiers, and other creditors upon the publique faith, within this nation, for satisfaction of all their just debts due before 1647. Shewing the severall lamentable conditions of many of them for want of the same, with a visible way for their satisfaction and reliefe.</title>
+            <author>Wilkes, Thomas, fl. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96508</idno>
+            <idno type="STC">Wing W2174</idno>
+            <idno type="STC">Thomason E671_10</idno>
+            <idno type="STC">ESTC R204116</idno>
+            <idno type="EEBO-CITATION">99863811</idno>
+            <idno type="PROQUEST">99863811</idno>
+            <idno type="VID">166234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96508)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166234)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E671[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supream authority the Parliament of the Common-VVealth of England. A remonstrance humbly presented by Thomas Wilkes, on behalfe of all the old distressed officers, souldiers, and other creditors upon the publique faith, within this nation, for satisfaction of all their just debts due before 1647. Shewing the severall lamentable conditions of many of them for want of the same, with a visible way for their satisfaction and reliefe.</title>
+                  <author>Wilkes, Thomas, fl. 1652.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing; dated at end: 19th. of July, 1652.</note>
+                  <note>Annotation on Thomason copy: "July. 19. 1652".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Economic conditions --  17th century.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:166234:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <head>To The ſupream Authority the PARLIAMENT of the COMMON-WEALTH of ENGLAND.</head>
+            <argument>
+               <p>A Remonſtrance humbly preſented by <hi>THOMAS WILKES,</hi> on behalfe of all the old diſtreſſed Officers, Souldiers, and other Creditors upon the <hi>Publique Faith,</hi> with this Nation, for ſatisfaction of all their Just Debts due before <hi>1647.</hi> Shewing the ſeverall lamenta<g ref="char:EOLhyphen"/>ble Conditions of many of them for want of the ſame, with a viſible way for their Satisfaction and Reliefe. <add>July .19.1652</add>
+               </p>
+            </argument>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch, as there are Thouſands in theſe firſt Warres, Did freely ingage in the Service of the PARLIAMENT, many of them with their Horſes and Armes, upon their owne Coſts and Charges. And looſing all they had by plunder of the Enemy, many loſt their Lives, many their
+<pb n="2" facs="tcp:166234:2"/>
+               <!-- PDF PAGE 44 -->Limbes, and many their Children, Parents, Husbands, and neare Friends in the ſaid Service, but the Heires, and Executors of the ſlayne and deceaſed, or thoſe Perſons who remaine alive, have yet received very little ſatisfacti<g ref="char:EOLhyphen"/>on for their ſaid Service, or loſſe of Eſtates or Lives. And others freely lent their Moneys, and other things for the ſaid Service upon the <hi>Publique Faith</hi> (for all which foreſaid Debts due before 1647.) there hath been very little or no ſatisfaction or Security provided by the STATE unto this day (unleſs it bee by doubling the like Summes) which by reaſon of their great Poverty they are not able to doe) many having ſold their Eſtates and Inheritance to pay their debts which they came into only by the ſaid Service; others being in Priſon for debt, ſome have been ſtarved to death, and many to preſerve them from the like miſeries, have been inforced to ſell their Bils and Debenters at - 5.s. 4.s. 3.s. 2.s. and 1.s. 6.d. the pound, and many at lower rates, (and all for want of their juſt Debts and Arreares <hi>the price of their Bloods</hi>) (to have relieved and preſerved them.) The Rich thereby making a prey and increaſing their riches, by purchaſing themſelves large poſſeſſions with the juſt Debts (even the deſtruction and blood of the Poor) but yet the ſame hath not bin layd to heart by many of our Governors and Ma<g ref="char:EOLhyphen"/>giſtrates, ſo much as to relieve them with their own juſt Debts ſo long ſince due, and dearly earned <hi>(in this their lamentable ſufferings.)</hi> Although it is yet hoped by many who deſire to feare the Lord, that many of our Honora<g ref="char:EOLhyphen"/>ble Rulers doe pitty their ſad Condition, and deſire their relief, and ſatisfaction of their ſaid old juſt Debts.</p>
+            <p>But by reaſon of the neceſſities of the Armies by land, and the Fleets by Sea, daily calling for ſupplies (ſo that
+<pb n="3" facs="tcp:166234:2"/>
+               <!-- PDF PAGE 44 -->in regard of the numerouſneſſe of unneceſſary Offices and Places (with their ſeverall Officers to ſupply them) and large Saleries allowed unto them) the State doe want money to ſatisfie their preſent neceſſities as aforeſaid, (and therefore cannot ſatisfie the foreſaid Creditors.)</p>
+            <p>ALL WHICH, having been conſidered by many faith<g ref="char:EOLhyphen"/>full well affected perſons to the <hi>COMMON-WEALTH.</hi> They have endeavored to find out Juſt wayes and meanes to ſatisfie the ſaid old Debts, and to take off the Cryes and Clamors of the ſaid poore People againſt the PARLIAMENT, by reaſon of their great want of what is due unto them.</p>
+            <p>And for that ſaid purpoſe, they have propounded divers things unto the Committee for matters of great Impor<g ref="char:EOLhyphen"/>tance who were ordered by the Houſe to receive the ſame, which may bee effectuall Security and full ſatisfaction unto all the ſaid poore Creditors.</p>
+            <p>And to that end, <hi>Collonell</hi> PRIDE, with Eleven more honeſt, able, and ſufficient men (out of their Love and care to the Honour of the Parliament, and pitty unto the ſaid poore Creditors) have ingaged and ſubſcribed their Names thereunto, before the ſaid Committee, to manage and carry on the ſaid whole Work at their own coſts and charges, without putting the <hi>COMMON-WEALTH</hi> to any Expences) <hi>And to ſatisfie the ſaid old Debts,</hi> out of all ſuch reall and perſonall Eſtates of the late Kings, &amp;c. and Biſhops, &amp;c. which are unjuſtly concealed and with-held from the <hi>Common-Wealth,</hi> (and doe of right belong to the <hi>State;</hi>) And out of all Moneys unjuſtly concealed, or with-held in the hands of all Treaſurers, or Collectors, or any other intruſted by the State, being not yet accompted for or payed in. And out of the ſtates
+<pb n="4" facs="tcp:166234:3"/>
+               <!-- PDF PAGE 45 -->of notorious Delinquents, which are not remitted in the <hi>Act of generall Pardon,</hi> (and not yet diſcovered or diſpo<g ref="char:EOLhyphen"/>ſed on, by any Act or Order of PARLIAMENT:) And by the demoliſhment of all the Cathedrals (in regard they are decaying) ſo that they will coſt great and vaſt ſummes of Money to repaire and keepe them up; and they being of no uſe for the true worſhip of God, or be<g ref="char:EOLhyphen"/>nefit unto the <hi>Common-wealth.</hi> And where neceſſity is, of a Houſe of meeting in the ſtead of any of them) that there may bee convenient Houſes built, with a part of the Mo<g ref="char:EOLhyphen"/>ney raiſed from them, wherein twice ſo many may heare to underſtand the Words of him that ſpeakes, more then can in any of thoſe high built Places, by reaſon the vaſt<g ref="char:EOLhyphen"/>neſſe of them drownes the underſtanding of the words with the ſounding of the voyce. And I hope none who doe own God will deny, but that Hearing is the only out<g ref="char:EOLhyphen"/>ward means to increaſe knowledge of God, and JESVS CHRIST, with what hee hath done for poor Sinners, and Love to him, and Faith in him (without all which) it is impoſſible to pleaſe him, or glorifie him.</p>
+            <p>All which ſaid Propoſals (with a Bill for making them Practicable) hath been reported from the ſaid Committee unto the Houſe (by Col. <hi>MARTIN</hi>) and upon debate thereof, it was referred back to the ſame Committee, to conſider and bring in a Bill for the Ca<g ref="char:EOLhyphen"/>thedrals; And another Bill for making the Lands in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> practicable for payment of the <hi>Publique Faith</hi> (to thoſe that will accept thereof.) And alſo the Bill for Concealements, as aforeſaid.</p>
+            <p>And the Houſe ordered the ſaid Committee to meet on <hi>Tueſday</hi> the 13.<hi rend="sup">th</hi> of <hi>July</hi> laſt, 1652. But as yet they have done nothing, or very little in the Premiſes.</p>
+            <p>
+               <pb n="5" facs="tcp:166234:3"/>
+               <!-- PDF PAGE 45 -->
+The Premiſes therefore ſeriouſly conſidered <hi>(viz.)</hi>
+            </p>
+            <list>
+               <item>Firſt, the juſtneſſe of ſatisfying the foreſaid poore Cre<g ref="char:EOLhyphen"/>ditors their juſt Debts ſo long ſince due unto them.</item>
+               <item>Secondly, the great diſtreſſe and want which thou<g ref="char:EOLhyphen"/>ſands of the ſaid Creditors are in (for want of their ſaid Debts.)</item>
+               <item>Thirdly, that the Rich (of whom) moſt are diſaffec<g ref="char:EOLhyphen"/>ted enemies unto the State, doe increaſe their riches and purchaſe themſelves large Poſſeſſions (by buying the ſaid juſt Debts of the Poore and well-affected friends) at ſuch inconſiderable rates as aforeſaid (unto the utter undoing of many of them.)</item>
+               <item>Fourthly, that there is Monies and other Eſtates un<g ref="char:EOLhyphen"/>juſtly concealed and with-held from the State (which will) with the Cathedrals (and the Land in <hi>Ireland,</hi> Or<g ref="char:EOLhyphen"/>dered by the Houſe to pay thoſe who will accept of it:) undoubtedly pay and ſatisfie all the ſaid Debts of the Common-wealth.</item>
+               <item>Fifthly, the equity in calling all ſuch Perſons unto an accompt.</item>
+               <item>Sixthly, that ſuch honeſt and able Men, having under<g ref="char:EOLhyphen"/>taken to mannage and carry on the ſaid Worke for pay<g ref="char:EOLhyphen"/>ment of the ſaid Debts (upon the foreſaid Propoſals at their owne charges) in regard the State doe want Money to ſatisfie the ſame. And—</item>
+               <item>Seaventhly, the daily Cries and Clamors of ſo many poore People againſt the Parliament, for want of their ſaid juſt Debts ſo long ſince due unto them; So that in conſideration of the Premiſes, it is hoped by all Godly, honeſt and well-affected perſons unto this Common-wealth, that this Work which is ſo juſt, charitable, con<g ref="char:EOLhyphen"/>ſcientious, of ſuch neceſſity, and ſo agreeable unto the
+<pb n="6" facs="tcp:166234:4"/>
+                  <!-- PDF PAGE 46 -->word of God, and tendeth ſo much to his glory, the Honour of the Parliament, the good, benefit and ſatiſ<g ref="char:EOLhyphen"/>faction of the ſaid poore Creditors, and of the Common-wealth in generall, (will not bee any longer neglected.) But that the ſaid Bills depending in the Houſe, will now bee ſpeedily taken into Conſideration, and be paſſed for ſatisfaction of the ſaid Debts, which will be moſt accep<g ref="char:EOLhyphen"/>table unto the ſaid poore Creditors and all honeſt and well-affected friends of this Common-wealth, and will for ever ingage their hearts and affections moſt firmly unto the Parliament; and will remove all the cryes and clamors of the ſaid poore Creditors, and will not bee excepted againſt or offenſive unto any. (But ſuch who are eyther ignorant, or wicked Men; or ſuch who doe Conceale or with-hold ſuch Monies or other Eſtates as aforeſaid from the Common-wealth, or elſe the diſaffe<g ref="char:EOLhyphen"/>cted Enemies thereof.)</item>
+            </list>
+            <p>And wee hope and earneſtly deſire; That all our Ho<g ref="char:EOLhyphen"/>norable Governours, will ſeriouſly weight and conſider of all the foreſaid Premiſes (and in love unto) and Zeale for (the glory of God) and tender pitty and bowels of Com<g ref="char:EOLhyphen"/>paſſion unto the poore and diſtreſſed Creditors, and for the good of all Gods people; over whom hee hath in mercy placed You to bee Governours, under his owne deare Son IESUS CHRIST <hi>(our King)</hi> that You will not neglect to afford Relief unto the ſaid poor Creditors, by paſſing of the ſaid Bills for their ſatisfaction and re<g ref="char:EOLhyphen"/>liefe.</p>
+            <p>And ſo wee humbly leave all the Premiſes unto the ſerious conſideration of the Honourable houſe; earneſtly praying (You may proceed therein and in all other the great and weighty affairs of the <hi>COMMON-WEALTH</hi>)
+<pb n="7" facs="tcp:166234:4"/>
+               <!-- PDF PAGE 46 -->According to the rule of the good Word and Will of our GOD, <hi>(and no otherwiſe)</hi> (which that You may do) with all Zeale, courage all holy Reſolution; The Lord fill You will his holy Spirit of truth, which may Guide and lead you into all Truth, and direct You in all your great Affaires (onely to ſeeke the glory of God, and ex<g ref="char:EOLhyphen"/>alting of his Son our Lord and King) and the ſpreading abroad of his glorious Goſpell, to the Converting poor ſinners, and opening their Eyes, to turne them from dark<g ref="char:EOLhyphen"/>neſſe to light, and from the power of Satan unto GOD, that they may receive forgiveneſſe of ſinnes, and an In<g ref="char:EOLhyphen"/>heritance amongſt thoſe which are ſanctified by Faith in the Lord Ieſus Chriſt; and for the Good and Re<g ref="char:EOLhyphen"/>lief, Preſervation, and Comfort of all his People.</p>
+            <closer>
+               <dateline>Subſcribed <date>the 19.<hi rend="sup">th</hi> of <hi>July,</hi> 1652,</date> in behalf of all the poore diſtreſſed Creditors in the <hi>COMMON-WEALTH</hi> (both Souldiers and others) for ſatisfaction of their Debts due from the STATE, before 1647.</dateline>
+               <signed>By me, THOMAS WILKES.</signed>
+            </closer>
+            <pb facs="tcp:166234:5"/>
+            <!-- PDF PAGE 47 -->
+            <pb facs="tcp:166234:5"/>
+            <!-- PDF PAGE 47 -->
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:166234:6"/>
+            <!-- PDF PAGE 48 -->
+            <p>Theſe BOOKS written by the ſame <hi>Author,</hi> are to be ſold at the <hi>Guilded A<g ref="char:EOLhyphen"/>corn</hi> in <hi>Pauls</hi> Church-yard. <hi>Viz.</hi>
+            </p>
+            <list>
+               <item>GODS EYE on his <hi>Iſrael,</hi> or a Paſſage of <hi>Balaam,</hi> out of <hi>Numb.</hi> 23.21. expound<g ref="char:EOLhyphen"/>ed and cleared from <hi>Antinomian</hi>-abuſe.</item>
+               <item>The <hi>Deceaſe</hi> of LAZARUS Chriſts friend, <hi>A Funeral Sermon,</hi> on <hi>John</hi> 11. <hi>v.</hi> 11.</item>
+               <item>The <hi>Chriſtian-mans Care.</hi> A SERMON on <hi>Mat.</hi> 6.33. with a ſhort Catechiſm.</item>
+               <item>De Cauſâ Meritoriâ noſtri coram Deo Juſtificationis.</item>
+               <item>De Dipthongis ſive Bivocalibus.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
